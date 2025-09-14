@@ -1,3 +1,18 @@
-body 	{background-color:#6a5acd;}
-h1 		{color:white;}
-p 		{color:white;}
+body 	
+{
+	background-color:#6a5acd;
+	text-align:center;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+h1 		
+{
+	color:white;
+}
+p 		
+{
+	color:white; font-size:24px;
+}
+img		
+{
+	img-align:center
+}
